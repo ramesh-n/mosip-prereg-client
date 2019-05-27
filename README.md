@@ -11,9 +11,8 @@ The Pre-Registration Client here is a reference implementation, written as a gui
 Pre-Registration Client is a web front end that relies on [Pre-Registration Services](https://github.com/mosip-open/mosip-prereg-services). The system designed to reach out to population at large and help ID seekers find and book a convenient appointment at a nearby registration center.
 
 ## Pre-Registration Client
-Start with [functional requirement specification](https://github.com/mosip-open/Documentation/wiki/FRS-Pre-Registration) and follow on to the [design](blob/master/docs/design/pre-registration/pre-registration-architecture.md)
+Start with [functional requirement specification](https://github.com/mosip-open/Documentation/wiki/FRS-Pre-Registration) and follow on to the design of [Pre-Registration services](https://github.com/mosip-open/mosip-prereg-services) 
 
 To get a complete running client and backend, follow the instructions in [Getting Started UI](Getting-started-ui.md) guide.
 
-TODO: review links
 
